@@ -1,0 +1,59 @@
+body {
+	background-color: #bfc6e8;
+	color: white;
+}
+
+.container {
+	display: block;
+	margin: 5% 50px 50px 15%;
+	background-color: #7180d4;
+	width: 70%;
+}
+
+.no1 {
+	text-align: center;
+
+}
+.no2 {
+	margin: 10% 10% 10% 17%; 
+	font-size: 20px;
+}
+
+.img {
+	border-radius: 100px;
+	height: 300px;
+	width: 200px;
+	border: 3px solid black;
+}
+.ishu {
+	font-family: Volkorn;
+	font-size: 60px;
+}
+.polly {
+	font-size: 40px;
+	font-family: lobster;
+}
+
+.p3 {
+	font-size: 25px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.p4 {
+	font-size: 25px;
+	text-align: center;
+	margin-bottom: 50px;
+	font-family: sofia;
+}
+
+.date{
+	font-size: 30px;
+}
+
+
+.about{
+	font-size: 35px;
+	margin-left: 50px;
+	font-family: Roboto Slab;
+}
